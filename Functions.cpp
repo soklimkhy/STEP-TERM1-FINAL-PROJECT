@@ -5,6 +5,7 @@
 #include <iomanip>
 using namespace std;
 
+
 struct User {
     char username[50];
     char password[50];
